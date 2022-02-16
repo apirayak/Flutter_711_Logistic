@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810168322667",
+    "project_id": "shortest-335613",
+    "storage_bucket": "shortest-335613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810168322667:android:ae1312ee6e20e4b25abf2e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810168322667-ten0eiiscd3jb9kh1k9506fdepi1rqhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcqJGmZxP19dLJN5Gx_njsNRCQV-lZpTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810168322667-ten0eiiscd3jb9kh1k9506fdepi1rqhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
